@@ -13,7 +13,6 @@ This repository contains hands‑on training resources used in OpenLegacy LearnU
 Each folder typically contains:
 - Sample copybooks or program definitions
 - JSON request/response examples
-- Screenshots or guides referenced by the LearnUpon course
 
 ## How to use these materials
 
