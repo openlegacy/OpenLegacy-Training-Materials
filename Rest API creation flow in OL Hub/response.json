@@ -1,0 +1,452 @@
+[
+  {
+    "CustomerID": "CUST-1001",
+    "FullName": "Michal Cohen",
+    "EmailAddress": "michal.cohen@startup.net",
+    "PhoneNumber": "+972-54-3504657",
+    "Country": "Canada",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-27"
+  },
+  {
+    "CustomerID": "CUST-1002",
+    "FullName": "Yossi Hadad",
+    "EmailAddress": "yossi.hadad@company.io",
+    "PhoneNumber": "+972-50-1302535",
+    "Country": "United States",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-05-10"
+  },
+  {
+    "CustomerID": "CUST-1003",
+    "FullName": "Tal Avraham",
+    "EmailAddress": "tal.avraham@startup.net",
+    "PhoneNumber": "+972-58-5294611",
+    "Country": "France",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-03-10"
+  },
+  {
+    "CustomerID": "CUST-1004",
+    "FullName": "Noa Stern",
+    "EmailAddress": "noa.stern@outlook.com",
+    "PhoneNumber": "+972-54-2594527",
+    "Country": "Israel",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-01-22"
+  },
+  {
+    "CustomerID": "CUST-1005",
+    "FullName": "Michal Shapira",
+    "EmailAddress": "michal.shapira@outlook.com",
+    "PhoneNumber": "+972-59-3701711",
+    "Country": "France",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-01-22"
+  },
+  {
+    "CustomerID": "CUST-1006",
+    "FullName": "Yossi Gigi",
+    "EmailAddress": "yossi.gigi@outlook.com",
+    "PhoneNumber": "+972-59-9826925",
+    "Country": "Canada",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-11"
+  },
+  {
+    "CustomerID": "CUST-1007",
+    "FullName": "Tamar Green",
+    "EmailAddress": "tamar.green@gmail.com",
+    "PhoneNumber": "+972-53-9872654" ,
+    "Country": "United Kingdom",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-04-21"
+  },
+  {
+    "CustomerID": "CUST-1008",
+    "FullName": "Noa Shapira",
+    "EmailAddress": "noa.shapira@outlook.com",
+    "PhoneNumber": "+972-53-7865374",
+    "Country": "France",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-02-27"
+  },
+  {
+    "CustomerID": "CUST-1009",
+    "FullName": "Tamar Dahan",
+    "EmailAddress": "tamar.dahan@company.io",
+    "PhoneNumber": "+972-56-3764598",
+    "Country": "Israel",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-02-11"
+  },
+  {
+    "CustomerID": "CUST-1010",
+    "FullName": "David Ashkenazi",
+    "EmailAddress": "david.ashkenazi@outlook.com",
+    "PhoneNumber": "+972-51-3166155",
+    "Country": "Canada",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-04-22"
+  },
+  {
+    "CustomerID": "CUST-1011",
+    "FullName": "Guy Biton",
+    "EmailAddress": "guy.biton@outlook.com",
+    "PhoneNumber": "+972-52-3529830",
+    "Country": "Canada",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-05-23"
+  },
+  {
+    "CustomerID": "CUST-1012",
+    "FullName": "Tom Ashkenazi",
+    "EmailAddress": "tom.ashkenazi@outlook.com",
+    "PhoneNumber": "+972-53-2419348",
+    "Country": "Israel",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-01-13"
+  },
+  {
+    "CustomerID": "CUST-1013",
+    "FullName": "Ron Dahan",
+    "EmailAddress": "ron.dahan@startup.net",
+    "PhoneNumber": "+972-56-7102040",
+    "Country": "Germany",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-05-24"
+  },
+  {
+    "CustomerID": "CUST-1014",
+    "FullName": "Nir Katz",
+    "EmailAddress": "nir.katz@techcorp.com",
+    "PhoneNumber": "+972-50-7962876",
+    "Country": "Canada",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-03-13"
+  },
+  {
+    "CustomerID": "CUST-1015",
+    "FullName": "Maya Stern",
+    "EmailAddress": "maya.stern@yahoo.com",
+    "PhoneNumber": "+972-57-1035315",
+    "Country": "France",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-19"
+  },
+  {
+    "CustomerID": "CUST-1016",
+    "FullName": "Nir Ronen",
+    "EmailAddress": "nir.ronen@yahoo.com",
+    "PhoneNumber": "+972-52-4823646",
+    "Country": "France",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-03-25"
+  },
+  {
+    "CustomerID": "CUST-1017",
+    "FullName": "Avi Peretz",
+    "EmailAddress": "avi.peretz@outlook.com",
+    "PhoneNumber": "+972-54-3451949",
+    "Country": "France",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-12"
+  },
+  {
+    "CustomerID": "CUST-1018",
+    "FullName": "Shira Mizrahi",
+    "EmailAddress": "shira.mizrahi@techcorp.com",
+    "PhoneNumber": "+972-52-2318787",
+    "Country": "United Kingdom",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-05-23"
+  },
+  {
+    "CustomerID": "CUST-1019",
+    "FullName": "Eitan Gigi",
+    "EmailAddress": "eitan.gigi@startup.net",
+    "PhoneNumber": "+972-53-8306107",
+    "Country": "Canada",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-03-24"
+  },
+  {
+    "CustomerID": "CUST-1020",
+    "FullName": "Nir Klein",
+    "EmailAddress": "nir.klein@gmail.com",
+    "PhoneNumber": "+972-53-3302049",
+    "Country": "Israel",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-05-27"
+  },
+  {
+    "CustomerID": "CUST-1021",
+    "FullName": "Tamar Hadad",
+    "EmailAddress": "tamar.hadad@yahoo.com",
+    "PhoneNumber": "+972-50-1721964",
+    "Country": "Israel",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-20"
+  },
+  {
+    "CustomerID": "CUST-1022",
+    "FullName": "Yossi Amar",
+    "EmailAddress": "yossi.amar@yahoo.com",
+    "PhoneNumber": "+972-54-7858953",
+    "Country": "France",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-02-28"
+  },
+  {
+    "CustomerID": "CUST-1023",
+    "FullName": "Tom Ohayon",
+    "EmailAddress": "tom.ohayon@yahoo.com",
+    "PhoneNumber": "+972-57-9267669",
+    "Country": "Israel",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-23"
+  },
+  {
+    "CustomerID": "CUST-1024",
+    "FullName": "Sarah Stern",
+    "EmailAddress": "sarah.stern@company.io",
+    "PhoneNumber": "+972-57-9841887",
+    "Country": "Israel",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-04-20"
+  },
+  {
+    "CustomerID": "CUST-1025",
+    "FullName": "Michal Frieman",
+    "EmailAddress": "michal.frieman@yahoo.com",
+    "PhoneNumber": "+972-53-6498350",
+    "Country": "Germany",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-02-18"
+  },
+  {
+    "CustomerID": "CUST-1026",
+    "FullName": "Guy Frieman",
+    "EmailAddress": "guy.frieman@gmail.com",
+    "PhoneNumber": "+972-57-9272604",
+    "Country": "Canada",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-05-10"
+  },
+  {
+    "CustomerID": "CUST-1027",
+    "FullName": "Yossi Frieman",
+    "EmailAddress": "yossi.frieman@yahoo.com",
+    "PhoneNumber": "+972-56-5978886",
+    "Country": "Germany",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-01-15"
+  },
+  {
+    "CustomerID": "CUST-1028",
+    "FullName": "Daniel Cohen",
+    "EmailAddress": "daniel.cohen@company.io",
+    "PhoneNumber": "+972-54-9028454",
+    "Country": "Germany",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-05-25"
+  },
+  {
+    "CustomerID": "CUST-1029",
+    "FullName": "Ron Avraham",
+    "EmailAddress": "ron.avraham@outlook.com",
+    "PhoneNumber": "+972-53-1599883",
+    "Country": "Canada",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-03-11"
+  },
+  {
+    "CustomerID": "CUST-1030",
+    "FullName": "Dana Hadad",
+    "EmailAddress": "dana.hadad@company.io",
+    "PhoneNumber": "+972-58-9739701",
+    "Country": "Israel",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-05-12"
+  },
+  {
+    "CustomerID": "CUST-1031",
+    "FullName": "Noa Mizrahi",
+    "EmailAddress": "noa.mizrahi@techcorp.com",
+    "PhoneNumber": "+972-51-7914853",
+    "Country": "Israel",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-05-17"
+  },
+  {
+    "CustomerID": "CUST-1032",
+    "FullName": "Tom Ronen",
+    "EmailAddress": "tom.ronen@gmail.com",
+    "PhoneNumber": "+972-59-1837868",
+    "Country": "United Kingdom",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-02-20"
+  },
+  {
+    "CustomerID": "CUST-1033",
+    "FullName": "Tamar Katz",
+    "EmailAddress": "tamar.katz@company.io",
+    "PhoneNumber": "+972-52-7875915",
+    "Country": "United Kingdom",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-01-10"
+  },
+  {
+    "CustomerID": "CUST-1034",
+    "FullName": "Guy Ronen",
+    "EmailAddress": "guy.ronen@techcorp.com",
+    "PhoneNumber": "+972-51-1759808",
+    "Country": "France",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-03-14"
+  },
+  {
+    "CustomerID": "CUST-1035",
+    "FullName": "Sarah Mizrahi",
+    "EmailAddress": "sarah.mizrahi@yahoo.com",
+    "PhoneNumber": "+972-55-3913584",
+    "Country": "France",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-03-26"
+  },
+  {
+    "CustomerID": "CUST-1036",
+    "FullName": "Avi Gigi",
+    "EmailAddress": "avi.gigi@outlook.com",
+    "PhoneNumber": "+972-51-9993200",
+    "Country": "Israel",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-01-27"
+  },
+  {
+    "CustomerID": "CUST-1037",
+    "FullName": "Ron Katz",
+    "EmailAddress": "ron.katz@outlook.com",
+    "PhoneNumber": "+972-59-3156617",
+    "Country": "Canada",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-03-26"
+  },
+  {
+    "CustomerID": "CUST-1038",
+    "FullName": "Shira Katz",
+    "EmailAddress": "shira.katz@gmail.com",
+    "PhoneNumber": "+972-51-7497939",
+    "Country": "Israel",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-01-20"
+  },
+  {
+    "CustomerID": "CUST-1039",
+    "FullName": "Ron Katz",
+    "EmailAddress": "ron.katz@yahoo.com",
+    "PhoneNumber": "+972-57-6648007",
+    "Country": "Israel",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-01-14"
+  },
+  {
+    "CustomerID": "CUST-1040",
+    "FullName": "Tal Levi",
+    "EmailAddress": "tal.levi@outlook.com",
+    "PhoneNumber": "+972-59-6653426",
+    "Country": "United States",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-01-19"
+  },
+  {
+    "CustomerID": "CUST-1041",
+    "FullName": "Sarah Levi",
+    "EmailAddress": "sarah.levi@outlook.com",
+    "PhoneNumber": "+972-53-7985088",
+    "Country": "United Kingdom",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-05-23"
+  },
+  {
+    "CustomerID": "CUST-1042",
+    "FullName": "Gal Biton",
+    "EmailAddress": "gal.biton@yahoo.com",
+    "PhoneNumber": "+972-52-9193900",
+    "Country": "Israel",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-02-20"
+  },
+  {
+    "CustomerID": "CUST-1043",
+    "FullName": "Adi Frieman",
+    "EmailAddress": "adi.frieman@outlook.com",
+    "PhoneNumber": "+972-52-9062771",
+    "Country": "Israel",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-04-17"
+  },
+  {
+    "CustomerID": "CUST-1044",
+    "FullName": "Eitan Klein",
+    "EmailAddress": "eitan.klein@outlook.com",
+    "PhoneNumber": "+972-54-9404728",
+    "Country": "Israel",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-02-22"
+  },
+  {
+    "CustomerID": "CUST-1045",
+    "FullName": "David Katz",
+    "EmailAddress": "david.katz@gmail.com",
+    "PhoneNumber": "+972-54-4599346",
+    "Country": "Canada",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-05-20"
+  },
+  {
+    "CustomerID": "CUST-1046",
+    "FullName": "Avi Peretz",
+    "EmailAddress": "avi.peretz@outlook.com",
+    "PhoneNumber": "+972-52-6945349",
+    "Country": "Israel",
+    "AccountStatus": "Active",
+    "SignupDate": "2026-05-23"
+  },
+  {
+    "CustomerID": "CUST-1047",
+    "FullName": "Sarah Goldstein",
+    "EmailAddress": "sarah.goldstein@company.io",
+    "PhoneNumber": "+972-59-6232894",
+    "Country": "France",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-02-18"
+  },
+  {
+    "CustomerID": "CUST-1048",
+    "FullName": "Dana Stern",
+    "EmailAddress": "dana.stern@gmail.com",
+    "PhoneNumber": "+972-58-9259821",
+    "Country": "United Kingdom",
+    "AccountStatus": "Inactive",
+    "SignupDate": "2026-04-12"
+  },
+  {
+    "CustomerID": "CUST-1049",
+    "FullName": "David Ronen",
+    "EmailAddress": "david.ronen@outlook.com",
+    "PhoneNumber": "+972-51-8375920",
+    "Country": "Canada",
+    "AccountStatus": "Pending",
+    "SignupDate": "2026-04-20"
+  },
+  {
+    "CustomerID": "CUST-1050",
+    "FullName": "Daniel Green",
+    "EmailAddress": "daniel.green@techcorp.com",
+    "PhoneNumber": "+972-52-2967888",
+    "Country": "Canada",
+    "AccountStatus": "Suspended",
+    "SignupDate": "2026-02-28"
+  }
+]
