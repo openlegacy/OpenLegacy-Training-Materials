@@ -1,0 +1,11 @@
+{
+  "customers": [
+    {
+      "CustomerID": "1001",
+      "FullName": "Michal Cohen",
+      "EmailAddress": "michal.cohen@startup.net",
+      "PhoneNumber": "+972-54-3504657",
+      "Country": "Canada"
+    }
+  ]
+}
